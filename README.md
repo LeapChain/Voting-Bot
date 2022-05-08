@@ -1,3 +1,3 @@
 # Voting-Bot
 
-Discord bot
+Community Discord bot
